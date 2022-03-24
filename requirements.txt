@@ -1,0 +1,5 @@
+aiofiles==0.8.0
+fastapi==0.75.0
+pynput==1.7.6
+requests==2.27.1
+uvicorn==0.17.6
